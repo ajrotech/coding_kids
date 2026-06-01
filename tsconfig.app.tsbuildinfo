@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/data.ts","./src/main.tsx","./src/components/CourseIcons.tsx","./src/components/ProjectIcons.tsx","./src/lib/storage.ts","./src/pages/AdminPage.tsx","./src/pages/ContactPage.tsx","./src/pages/CoursesPage.tsx","./src/pages/EnrollmentPage.tsx","./src/pages/HomePage.tsx","./src/pages/ProjectsPage.tsx"],"version":"5.9.3"}
